@@ -1,0 +1,33 @@
+.gholder{
+
+}
+
+.gholder svg{
+    width: 100%;
+    height: 100%;
+
+}
+
+.map.gholder {
+    display: block;
+    width: 100%;
+    height: 500px;
+
+
+}
+
+.map.gholder svg {
+
+
+}
+
+.map.gholder svg.a {
+    fill: #f7931e;
+    stroke: #ff0;
+    stroke-miterlimit: 10;
+  }
+
+  .map.gholder svg.b {
+    font-size: 40px;
+    
+  }
